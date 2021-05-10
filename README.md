@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Github Portfolio site.
 
-You can use the [editor on GitHub](https://github.com/TimBrianBrady/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Project 1: Coursera's Applied Data Science Capstone.
+[IBM Data Science certificate](https://coursera.org/share/b75b5d68dc00fb19cd8517e4978dd77e)
+- 
+- Used the Foursquare API to segment and cluster restaurant data in the Macon, GA area.
+- Goal was to identify a style of restaurant (venue category) that was under-served in the area.
+- Performed k-means clustering to assign each venue to a cluster.
+- Ranked the categories within each cluster.
+- Compared top categories within each cluster to determine dis-similarities.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
